@@ -1,13 +1,13 @@
 public class TwoSum {
     public static void main(String[] args) {
-        int[] array = new Solution().twoSum(new int[]{3,2,4},6);
+        int[] array = new Solution2().twoSum(new int[]{3,2,4},6);
         for (int i : array) {
             System.out.println(i);
         }
     }
 }
 
-class Solution {
+class Solution2 {
     public int[] twoSum(int[] nums, int target) {
         int[] answer = new int[2];
         for (int i = 0; i < nums.length; i++) {
