@@ -6,7 +6,8 @@
 
 ## 数组
 [Two Sum 两数和-输入已排序的数组](https://github.com/lzl471954654/LeetCode/blob/master/src/TwoSum.java)
-[1-bit and 2-bit Characters-一位和两位字符]()
+
+[1-bit and 2-bit Characters-一位和两位字符](https://github.com/lzl471954654/LeetCode/blob/master/src/Num717.java)
 ## 链表类算法
 [Add Two Numbers  链表求和](https://github.com/lzl471954654/LeetCode/blob/master/src/Add%20Two%20Numbers.kt)
 
